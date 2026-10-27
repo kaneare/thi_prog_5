@@ -1,0 +1,14 @@
+C:/Users/kaneare/Downloads/lab5/build/CMakeFiles/third_lab_lib.dir
+C:/Users/kaneare/Downloads/lab5/build/CMakeFiles/vehicle_logic.dir
+C:/Users/kaneare/Downloads/lab5/build/CMakeFiles/third_lab.dir
+C:/Users/kaneare/Downloads/lab5/build/CMakeFiles/lab5_gui.dir
+C:/Users/kaneare/Downloads/lab5/build/CMakeFiles/edit_cache.dir
+C:/Users/kaneare/Downloads/lab5/build/CMakeFiles/rebuild_cache.dir
+C:/Users/kaneare/Downloads/lab5/build/CMakeFiles/third_lab_lib_autogen_timestamp_deps.dir
+C:/Users/kaneare/Downloads/lab5/build/CMakeFiles/third_lab_lib_autogen.dir
+C:/Users/kaneare/Downloads/lab5/build/CMakeFiles/vehicle_logic_autogen_timestamp_deps.dir
+C:/Users/kaneare/Downloads/lab5/build/CMakeFiles/vehicle_logic_autogen.dir
+C:/Users/kaneare/Downloads/lab5/build/CMakeFiles/third_lab_autogen_timestamp_deps.dir
+C:/Users/kaneare/Downloads/lab5/build/CMakeFiles/third_lab_autogen.dir
+C:/Users/kaneare/Downloads/lab5/build/CMakeFiles/lab5_gui_autogen_timestamp_deps.dir
+C:/Users/kaneare/Downloads/lab5/build/CMakeFiles/lab5_gui_autogen.dir
